@@ -1,0 +1,16 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\bin\Debug\WPFxamlCanvas.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\bin\Debug\WPFxamlCanvas.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\bin\Debug\WPFxamlCanvas.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlCanvas\WPFxamlCanvas\obj\Debug\WPFxamlCanvas.pdb

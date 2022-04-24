@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPFxamlCanvas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFxamlCanvas"
+        mc:Ignorable="d"
+        Title="XAML | Canvas" Height="450" Width="800">
+    <Canvas x:Name="button">
+        <Button x:Name="buttonRed" Content="Red Button" Canvas.Left="150" Canvas.Top="86" Background="Red" Foreground="White" Height="38" Width="108" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="16"/>
+        <TextBox x:Name="esime" Canvas.Left="308" TextWrapping="Wrap" Text="ESIME" Canvas.Top="153" Width="65" Background="#FFB9B9B9" FontSize="16" Height="28" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="ice" Canvas.Left="400" TextWrapping="Wrap" Text="ICE" Canvas.Top="189" Width="65" Background="#FFB9B9B9" FontSize="16" Height="28" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="ipn" Canvas.Left="485" TextWrapping="Wrap" Text="IPN" Canvas.Top="226" Width="65" Background="#FFB9B9B9" FontSize="16" Height="28" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="signature" Content="Firma" Canvas.Left="167" Canvas.Top="313" Background="#FF3C8BBD" Foreground="White" Height="38" Width="76" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="13" Click="signature_Click"/>
+    </Canvas>
+</Window>
